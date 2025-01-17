@@ -3,16 +3,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Kabirvansh Chadha`
+- **CCID:** `<KVCHADHA>`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com/develop/ui/views/layout/declaring-layout
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A`    | `N/A` |
+
