@@ -5,4 +5,6 @@
     <string name="remove_city">Remove City</string>
     <string name="enter_city_name">Enter city name</string>
     <string name="confirm">Confirm</string>
+    <string name="listy_city">Listy City</string>
+    <string name="listycity">ListyCity</string>
 </resources>
