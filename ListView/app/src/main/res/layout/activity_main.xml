@@ -11,14 +11,14 @@
         android:layout_width="371dp"
         android:layout_height="610dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="76dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
         app:layout_constraintBottom_toTopOf="@id/remove_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/city_input"
+        app:layout_constraintTop_toBottomOf="@+id/city_input"
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
